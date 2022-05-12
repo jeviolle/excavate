@@ -22,6 +22,12 @@ The following are needed to build `excavate`
 $ mvn -Dmaven.test.skip=true package
 ```
 
+or for later Maven versions
+
+```shell
+$ mvn -DskipTests package
+```
+
 This should create the necessary jar. (eg: `target/excavate-1.0-SNAPSHOT.jar`)
 
 # Running
@@ -72,3 +78,4 @@ Found 6 possibilities
 
 commons-cli:commons-cli [1.2, 1.1, 20040117.000000, 1.0, 1.0-beta-2, 1.0-beta-1]
 ```
+

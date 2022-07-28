@@ -5,6 +5,6 @@ changelog:
     - title: Important Changes
       labels:
         - important
-    - title: What's Changed
+    - title: General Changes
       labels:
         - "*"

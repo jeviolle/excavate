@@ -53,7 +53,7 @@
         <dependency>
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
-            <version>2.4.3</version>
+            <version>2.4.4</version>
             <!-- Uncomment line below to use invokedynamic version of Groovy (requires Java 7 or higher). -->
             <!--<classifier>indy</classifier>-->
         </dependency>
